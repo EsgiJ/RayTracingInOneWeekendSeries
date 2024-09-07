@@ -1,0 +1,33 @@
+#include "vec3.h"
+#include "color.h"
+
+#include <iostream>
+#include <fstream>
+
+int main()
+{
+	//Image
+	int image_width = 256;
+	int image_height = 256;
+
+	//Create file
+	std::ofstream image_file("output_image.ppm");
+
+	//Render
+	image_file << "P3\n" << image_width << ' ' << image_height << "\n255\n";
+
+	for (int j = 0; j < image_height; j++)
+	{
+		std::clog << "\rScanlines remaining: " << (image_height - j) << ' ' << std::flush;
+		for (int i = 0; i < image_width; i++)
+		{
+			auto pixel_color = color(double(i) / (image_width - 1), double(j) / (image_height - 1), 0);
+			write_color(image_file, pixel_color);
+		}
+	}
+
+	image_file.close();
+
+	std::clog << "\rDone.                 \n";
+	return 0;
+}
