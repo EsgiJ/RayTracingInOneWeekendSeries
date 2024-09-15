@@ -8,19 +8,19 @@ public:
 	ray() {};
 
 	ray(const point3& origin, const vec3& direction)
-		: m_Origin(origin), m_Direction(direction) {}
+		: orig(origin), dir(direction) {}
 
-	const point3& origin() const { return m_Origin; }
-	const point3& direction() const { return m_Direction; }
+	const point3& origin() const { return orig; }
+	const point3& direction() const { return dir; }
 
 	point3 at(double t) const
 	{
-		return origin + t * m_Direction;
+		return orig + t * dir;
 	}
 
 private:
-	point3 m_Origin;
-	point3 m_Direction;
+	point3 orig;
+	point3 dir;
 };
 
 #endif

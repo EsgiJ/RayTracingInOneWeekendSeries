@@ -1,4 +1,5 @@
 ﻿  main.cpp
-C:\Codes\RayTracingInOneWeekend\RayTracingInOneWeekend\main.cpp(24,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Codes\RayTracingInOneWeekend\RayTracingInOneWeekend\main.cpp(24,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Codes\RayTracingInOneWeekend\RayTracingInOneWeekend\vec3.h(151,14): warning C4804: '<=': unsafe use of type 'bool' in operation
+  (compiling source file 'main.cpp')
+  
   RayTracingInOneWeekend.vcxproj -> C:\Codes\RayTracingInOneWeekend\x64\Debug\RayTracingInOneWeekend.exe

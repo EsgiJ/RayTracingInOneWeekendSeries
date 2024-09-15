@@ -3,20 +3,48 @@
   "WorkspaceRootPath": "C:\\Codes\\RayTracingInOneWeekend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F4A55203-6C2E-408A-9167-D3E1030C8B56}|RayTracingInOneWeekend\\RayTracingInOneWeekend.vcxproj|C:\\Codes\\RayTracingInOneWeekend\\RayTracingInOneWeekend\\ray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F4A55203-6C2E-408A-9167-D3E1030C8B56}|RayTracingInOneWeekend\\RayTracingInOneWeekend.vcxproj|solutionrelative:RayTracingInOneWeekend\\ray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F4A55203-6C2E-408A-9167-D3E1030C8B56}|RayTracingInOneWeekend\\RayTracingInOneWeekend.vcxproj|C:\\Codes\\RayTracingInOneWeekend\\RayTracingInOneWeekend\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F4A55203-6C2E-408A-9167-D3E1030C8B56}|RayTracingInOneWeekend\\RayTracingInOneWeekend.vcxproj|solutionrelative:RayTracingInOneWeekend\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4A55203-6C2E-408A-9167-D3E1030C8B56}|RayTracingInOneWeekend\\RayTracingInOneWeekend.vcxproj|C:\\Codes\\RayTracingInOneWeekend\\RayTracingInOneWeekend\\camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F4A55203-6C2E-408A-9167-D3E1030C8B56}|RayTracingInOneWeekend\\RayTracingInOneWeekend.vcxproj|solutionrelative:RayTracingInOneWeekend\\camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F4A55203-6C2E-408A-9167-D3E1030C8B56}|RayTracingInOneWeekend\\RayTracingInOneWeekend.vcxproj|C:\\Codes\\RayTracingInOneWeekend\\RayTracingInOneWeekend\\vec3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F4A55203-6C2E-408A-9167-D3E1030C8B56}|RayTracingInOneWeekend\\RayTracingInOneWeekend.vcxproj|solutionrelative:RayTracingInOneWeekend\\vec3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F4A55203-6C2E-408A-9167-D3E1030C8B56}|RayTracingInOneWeekend\\RayTracingInOneWeekend.vcxproj|C:\\Codes\\RayTracingInOneWeekend\\RayTracingInOneWeekend\\material.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F4A55203-6C2E-408A-9167-D3E1030C8B56}|RayTracingInOneWeekend\\RayTracingInOneWeekend.vcxproj|solutionrelative:RayTracingInOneWeekend\\material.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4A55203-6C2E-408A-9167-D3E1030C8B56}|RayTracingInOneWeekend\\RayTracingInOneWeekend.vcxproj|C:\\Codes\\RayTracingInOneWeekend\\RayTracingInOneWeekend\\sphere.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F4A55203-6C2E-408A-9167-D3E1030C8B56}|RayTracingInOneWeekend\\RayTracingInOneWeekend.vcxproj|solutionrelative:RayTracingInOneWeekend\\sphere.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4A55203-6C2E-408A-9167-D3E1030C8B56}|RayTracingInOneWeekend\\RayTracingInOneWeekend.vcxproj|C:\\Codes\\RayTracingInOneWeekend\\RayTracingInOneWeekend\\hittable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F4A55203-6C2E-408A-9167-D3E1030C8B56}|RayTracingInOneWeekend\\RayTracingInOneWeekend.vcxproj|solutionrelative:RayTracingInOneWeekend\\hittable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F4A55203-6C2E-408A-9167-D3E1030C8B56}|RayTracingInOneWeekend\\RayTracingInOneWeekend.vcxproj|C:\\Codes\\RayTracingInOneWeekend\\RayTracingInOneWeekend\\color.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F4A55203-6C2E-408A-9167-D3E1030C8B56}|RayTracingInOneWeekend\\RayTracingInOneWeekend.vcxproj|solutionrelative:RayTracingInOneWeekend\\color.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4A55203-6C2E-408A-9167-D3E1030C8B56}|RayTracingInOneWeekend\\RayTracingInOneWeekend.vcxproj|C:\\Codes\\RayTracingInOneWeekend\\RayTracingInOneWeekend\\rtweekend.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F4A55203-6C2E-408A-9167-D3E1030C8B56}|RayTracingInOneWeekend\\RayTracingInOneWeekend.vcxproj|solutionrelative:RayTracingInOneWeekend\\rtweekend.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4A55203-6C2E-408A-9167-D3E1030C8B56}|RayTracingInOneWeekend\\RayTracingInOneWeekend.vcxproj|C:\\Codes\\RayTracingInOneWeekend\\RayTracingInOneWeekend\\interval.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F4A55203-6C2E-408A-9167-D3E1030C8B56}|RayTracingInOneWeekend\\RayTracingInOneWeekend.vcxproj|solutionrelative:RayTracingInOneWeekend\\interval.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4A55203-6C2E-408A-9167-D3E1030C8B56}|RayTracingInOneWeekend\\RayTracingInOneWeekend.vcxproj|C:\\Codes\\RayTracingInOneWeekend\\RayTracingInOneWeekend\\hittable_list.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F4A55203-6C2E-408A-9167-D3E1030C8B56}|RayTracingInOneWeekend\\RayTracingInOneWeekend.vcxproj|solutionrelative:RayTracingInOneWeekend\\hittable_list.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4A55203-6C2E-408A-9167-D3E1030C8B56}|RayTracingInOneWeekend\\RayTracingInOneWeekend.vcxproj|C:\\Codes\\RayTracingInOneWeekend\\RayTracingInOneWeekend\\ray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F4A55203-6C2E-408A-9167-D3E1030C8B56}|RayTracingInOneWeekend\\RayTracingInOneWeekend.vcxproj|solutionrelative:RayTracingInOneWeekend\\ray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,32 +54,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ray.h",
-              "DocumentMoniker": "C:\\Codes\\RayTracingInOneWeekend\\RayTracingInOneWeekend\\ray.h",
-              "RelativeDocumentMoniker": "RayTracingInOneWeekend\\ray.h",
-              "ToolTip": "C:\\Codes\\RayTracingInOneWeekend\\RayTracingInOneWeekend\\ray.h",
-              "RelativeToolTip": "RayTracingInOneWeekend\\ray.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "material.h",
+              "DocumentMoniker": "C:\\Codes\\RayTracingInOneWeekend\\RayTracingInOneWeekend\\material.h",
+              "RelativeDocumentMoniker": "RayTracingInOneWeekend\\material.h",
+              "ToolTip": "C:\\Codes\\RayTracingInOneWeekend\\RayTracingInOneWeekend\\material.h",
+              "RelativeToolTip": "RayTracingInOneWeekend\\material.h",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAiwE0AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-07T23:44:58.219Z",
+              "WhenOpened": "2024-09-14T20:10:33.558Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "color.h",
-              "DocumentMoniker": "C:\\Codes\\RayTracingInOneWeekend\\RayTracingInOneWeekend\\color.h",
-              "RelativeDocumentMoniker": "RayTracingInOneWeekend\\color.h",
-              "ToolTip": "C:\\Codes\\RayTracingInOneWeekend\\RayTracingInOneWeekend\\color.h",
-              "RelativeToolTip": "RayTracingInOneWeekend\\color.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "camera.h",
+              "DocumentMoniker": "C:\\Codes\\RayTracingInOneWeekend\\RayTracingInOneWeekend\\camera.h",
+              "RelativeDocumentMoniker": "RayTracingInOneWeekend\\camera.h",
+              "ToolTip": "C:\\Codes\\RayTracingInOneWeekend\\RayTracingInOneWeekend\\camera.h",
+              "RelativeToolTip": "RayTracingInOneWeekend\\camera.h",
+              "ViewState": "AgIAAEkAAAAAAAAAAAASwFYAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-07T23:36:44.839Z",
+              "WhenOpened": "2024-09-14T14:14:38.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "hittable_list.h",
+              "DocumentMoniker": "C:\\Codes\\RayTracingInOneWeekend\\RayTracingInOneWeekend\\hittable_list.h",
+              "RelativeDocumentMoniker": "RayTracingInOneWeekend\\hittable_list.h",
+              "ToolTip": "C:\\Codes\\RayTracingInOneWeekend\\RayTracingInOneWeekend\\hittable_list.h",
+              "RelativeToolTip": "RayTracingInOneWeekend\\hittable_list.h",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-08T15:37:20.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "sphere.h",
+              "DocumentMoniker": "C:\\Codes\\RayTracingInOneWeekend\\RayTracingInOneWeekend\\sphere.h",
+              "RelativeDocumentMoniker": "RayTracingInOneWeekend\\sphere.h",
+              "ToolTip": "C:\\Codes\\RayTracingInOneWeekend\\RayTracingInOneWeekend\\sphere.h",
+              "RelativeToolTip": "RayTracingInOneWeekend\\sphere.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-08T15:09:43.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "hittable.h",
+              "DocumentMoniker": "C:\\Codes\\RayTracingInOneWeekend\\RayTracingInOneWeekend\\hittable.h",
+              "RelativeDocumentMoniker": "RayTracingInOneWeekend\\hittable.h",
+              "ToolTip": "C:\\Codes\\RayTracingInOneWeekend\\RayTracingInOneWeekend\\hittable.h",
+              "RelativeToolTip": "RayTracingInOneWeekend\\hittable.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-08T15:03:09.281Z",
               "EditorCaption": ""
             },
             {
@@ -62,23 +129,74 @@
               "RelativeDocumentMoniker": "RayTracingInOneWeekend\\vec3.h",
               "ToolTip": "C:\\Codes\\RayTracingInOneWeekend\\RayTracingInOneWeekend\\vec3.h",
               "RelativeToolTip": "RayTracingInOneWeekend\\vec3.h",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAwDUAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAlwIsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-09-07T22:43:23.362Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Codes\\RayTracingInOneWeekend\\RayTracingInOneWeekend\\main.cpp",
               "RelativeDocumentMoniker": "RayTracingInOneWeekend\\main.cpp",
               "ToolTip": "C:\\Codes\\RayTracingInOneWeekend\\RayTracingInOneWeekend\\main.cpp",
               "RelativeToolTip": "RayTracingInOneWeekend\\main.cpp",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAiwDoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-07T22:23:12.857Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "rtweekend.h",
+              "DocumentMoniker": "C:\\Codes\\RayTracingInOneWeekend\\RayTracingInOneWeekend\\rtweekend.h",
+              "RelativeDocumentMoniker": "RayTracingInOneWeekend\\rtweekend.h",
+              "ToolTip": "C:\\Codes\\RayTracingInOneWeekend\\RayTracingInOneWeekend\\rtweekend.h",
+              "RelativeToolTip": "RayTracingInOneWeekend\\rtweekend.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-08T15:50:55.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "color.h",
+              "DocumentMoniker": "C:\\Codes\\RayTracingInOneWeekend\\RayTracingInOneWeekend\\color.h",
+              "RelativeDocumentMoniker": "RayTracingInOneWeekend\\color.h",
+              "ToolTip": "C:\\Codes\\RayTracingInOneWeekend\\RayTracingInOneWeekend\\color.h",
+              "RelativeToolTip": "RayTracingInOneWeekend\\color.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-07T23:36:44.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "interval.h",
+              "DocumentMoniker": "C:\\Codes\\RayTracingInOneWeekend\\RayTracingInOneWeekend\\interval.h",
+              "RelativeDocumentMoniker": "RayTracingInOneWeekend\\interval.h",
+              "ToolTip": "C:\\Codes\\RayTracingInOneWeekend\\RayTracingInOneWeekend\\interval.h",
+              "RelativeToolTip": "RayTracingInOneWeekend\\interval.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-08T16:20:11.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ray.h",
+              "DocumentMoniker": "C:\\Codes\\RayTracingInOneWeekend\\RayTracingInOneWeekend\\ray.h",
+              "RelativeDocumentMoniker": "RayTracingInOneWeekend\\ray.h",
+              "ToolTip": "C:\\Codes\\RayTracingInOneWeekend\\RayTracingInOneWeekend\\ray.h",
+              "RelativeToolTip": "RayTracingInOneWeekend\\ray.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-07T23:44:58.219Z"
             }
           ]
         }
